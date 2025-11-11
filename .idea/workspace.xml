@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94cd291-5e29-4597-97a1-3e30311e25c9" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/Test2Controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestProperties.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../project-config/hub-service/application.yml" afterDir="false" />
@@ -16,6 +17,8 @@
       <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/hub-service/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/hub-service/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/JeogiyoApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/config/SecurityConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/controller/AuthController.java" beforeDir="false" />

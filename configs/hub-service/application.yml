@@ -11,4 +11,5 @@ message3: '테스트 메세지3'
 management:
   enepoints:
     web:
-      exposure: refresh
+      exposure:
+        include: refresh
