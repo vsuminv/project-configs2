@@ -8,7 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/Test2Controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project-config/hub-service/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-config/hub-service/config/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Dockerfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docker-compose.yml" beforeDir="false" />
@@ -18,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/hub-service/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/hub-service/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/JeogiyoApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/config/SecurityConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/controller/AuthController.java" beforeDir="false" />
