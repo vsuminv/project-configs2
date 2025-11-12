@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94cd291-5e29-4597-97a1-3e30311e25c9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/Test2Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.spartahub.hubservice/src/main/java/org/spartahub/hubservice/test/TestProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project-config/hub-service/configs/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/JeogiyoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/controller/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/dto/AuthResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/dto/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/dto/SignUpRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/security/JwtAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/security/JwtUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/auth/service/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/common/dto/ErrorResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/common/entity/BaseEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/common/exception/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/common/exception/ErrorCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/common/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/user/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/ijaes/jeogiyo/user/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/test/java/com/ijaes/jeogiyo/JeogiyoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
