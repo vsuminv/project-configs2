@@ -5,3 +5,7 @@ spring:
         locator:
           enabled: true
           lower-case-service-id: true
+
+      routes:
+        - id : hub-service
+          uri: lb://hub-service
