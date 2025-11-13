@@ -20,3 +20,7 @@ spring:
             - Path=/v1/product/**
           filters:
             - 'RewritePath=/v1/product/(?<path>.*), /\${path}'
+
+logging:
+  level:
+    feign: DEBUG
