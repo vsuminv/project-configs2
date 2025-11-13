@@ -65,6 +65,7 @@ management:
     prometheus:
       enabled: true
     metrics:
+      enabled: true
       export:
         prometheus:
           enabled: true
